@@ -12,10 +12,17 @@ This example shows how you can use the Whadda Electronic scale load cell sensor 
   For more information about the Whadda Electronic scale load cell sensor (WPSE471), check the manual available at [whadda.com](https://whadda.com)
 
 ## Acknowledgments
-Based on Arduino AnalogInOutSerial code
-This example code is in the public domain.
- created 29 Dec. 2008
-  modified 9 Apr 2012
-  by Tom Igoe
+Calibration sketch based on: 
+Example using the SparkFun HX711 breakout board with a scale
+  By: Nathan Seidle
+  SparkFun Electronics
+  Date: November 19th, 2014
+  License: This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
+
+Read_weight sketch based on:
+demo program for the HX711 library for Arduino
+  https://github.com/bogde/HX711
+  MIT License
+  (c) 2018 Bogdan Necula
 
   URL: http://www.arduino.cc/en/Tutorial/AnalogInOutSerial
