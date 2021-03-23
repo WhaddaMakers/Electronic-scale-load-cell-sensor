@@ -1,6 +1,6 @@
 # Whadda Electronic scale load cell example code
 
-This example shows how you can use the Whadda Electronic scale load cell sensor (WPSE471) with an Arduino® compatible board to read voltages and print them in the serial monitor.
+This example shows how you can use the Whadda Electronic scale load cell sensor (WPSE471) with an Arduino® compatible board to read the weights measured by the sensor and print the results in the serial monitor.
 
 ## Library dependencies
 * [![arduino-library-badge](https://www.ardu-badge.com/badge/HX711%20Arduino%20Library.svg?)](https://www.ardu-badge.com/HX711%20Arduino%20Library) HX711 Arduino Library by bogde
