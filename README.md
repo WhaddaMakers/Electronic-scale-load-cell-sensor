@@ -34,5 +34,3 @@ demo program for the HX711 library for Arduino
   MIT License
 
   (c) 2018 Bogdan Necula
-
-  URL: http://www.arduino.cc/en/Tutorial/AnalogInOutSerial
